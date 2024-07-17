@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Pricing() {
+function PricingPage() {
     return (  
         <div className='container'>
             <div className='row'>
@@ -27,4 +27,4 @@ function Pricing() {
     );
 }
 
-export default Pricing;
+export default PricingPage;
