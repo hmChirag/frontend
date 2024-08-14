@@ -6,7 +6,7 @@ import HomePage from "./landing_page/home/Homepage";
 import Signup from "./landing_page/signup/Signup";
 import AboutPage from "./landing_page/about/About";
 import ProductPage from "./landing_page/products/Product";
-import PricingPage from "./landing_page/pricing/Pricing";
+import PricingPage from "./landing_page/pricing/PricingPage";
 import SupportPage from "./landing_page/support/SupportPage";
 import Navbar from "./landing_page/Navbar";
 import Footer from "./landing_page/Footer";
