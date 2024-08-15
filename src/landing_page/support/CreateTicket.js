@@ -6,7 +6,7 @@ function CreateTicket() {
         <h3 className="p-5">To create a ticket, select a relevant topic</h3>
         <div className="col-4 px-5">
           <h5>
-            <i class="fa-solid fa-plus"></i>Acoount  Opening
+            <i class="fa-solid fa-plus"></i>Acoount Opening
           </h5>
           <a href="" className="px-4 p-3" style={{ textDecoration: "none" }}>
             Getting started
